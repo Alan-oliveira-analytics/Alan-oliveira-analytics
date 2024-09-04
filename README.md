@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A passionate data analystic from Brazil.</h3>
 <p align="center">
   <img src="https://github.com/Alan-oliveira-analytics/Alan-oliveira-analytics/raw/main/assets/header-github.gif" alt="Hi, I'm Mathieu 👋Hi, I'm Alan 🚀I'm Brazilian Data Analystic 🚀 I ❤️ Statistical Solutions ❤️">
 </p>
