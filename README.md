@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate data analystic from Brazil.</h3>
+<p align="center">
+  <img src="https://github.com/Alan-oliveira-analytics/Alan-oliveira-analytics/raw/main/assets/header-github.gif" alt="Hi, I'm Mathieu 👋Hi, I'm Alan 🚀I'm Brazilian Data Analystic 🚀 I ❤️ Statistical Solutions ❤️">
+</p>
+<!--
+How to make this gif ?
+Thanks to https://github.com/matyo91/matyo91/blob/main/README.md?plain=1 for this gif
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
+
 
 - 🌱 I’m currently learning **Pandas, PowerBI, SQL server**
 
