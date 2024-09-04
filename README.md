@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Alan-oliveira-analytics/Alan-oliveira-analytics/raw/main/assets/gif_apresentacao_editado.gif" alt="👋Hi, I'm Alan">
+  <img src="https://github.com/Alan-oliveira-analytics/Alan-oliveira-analytics/raw/main/assets/header-github.gif" alt="👋Hi, I'm Alan">
 </p>
 <!--
 How to make this gif ?
