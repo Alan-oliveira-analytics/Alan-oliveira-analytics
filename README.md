@@ -13,7 +13,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 - 🌱 I’m currently learning **Pandas, PowerBI, SQL server**
 
-- 👨‍💻 All of my projects are available at [(https://alananalytics.info/)](https://alananalytics.info/)
+- 👨‍💻 All of my projects are available at [https://alananalytics.info/](https://alananalytics.info/)
 
 - 📝 I regularly write articles on [https://medium.com/@alandeoliveiradev](https://medium.com/@alandeoliveiradev)
 
