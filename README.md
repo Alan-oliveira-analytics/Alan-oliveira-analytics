@@ -11,7 +11,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 -->
 
 
-- 🌱 I’m currently learning **Pandas, PowerBI, SQL server**
+- 🌱 I’m currently learning **Dokcer, Airflow, Python**
 
 - 👨‍💻 All of my projects are available at [https://alananalytics.info/](https://alananalytics.info/)
 
