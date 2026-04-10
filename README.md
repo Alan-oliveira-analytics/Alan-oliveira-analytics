@@ -13,7 +13,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 - 🌱 I’m currently learning **Dokcer, Airflow, Python**
 
-- 👨‍💻 All of my projects are available at [https://alananalytics.info/](https://alananalytics.info/)
+- 👨‍💻 All of my projects are available at [[https://alananalytics.info/](https://alananalytics.info](https://alan-oliveira-analytics.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@alandeoliveiradev](https://medium.com/@alandeoliveiradev)
 
